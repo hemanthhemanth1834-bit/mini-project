@@ -1,1 +1,1 @@
-# mini-project
+# Spam_Email_Detection
